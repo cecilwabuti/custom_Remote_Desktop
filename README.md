@@ -1,2 +1,4 @@
 # custom_Remote_Desktop
 A cross platform open source remote desktop solution 
+I am editing the README file. Adding some more 
+details about the project description.
